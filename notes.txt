@@ -1,0 +1,10 @@
+## Boot Up the Backend Engine
+# Run the FastAPI app locally inside your application directory
+uvicorn api:app --reload --host 0.0.0.0 --port 8000
+
+## Launch the Client Interface
+Open the url http://localhost:8000 in web browser
+
+Please note: I use windows 10 for my development.
+
+

@@ -1,0 +1,21 @@
+=========================================================================
+               AGRIINTEL PLATFORM - BULK PROCUREMENT MANIFEST            
+               Generated On: 2026-05-31 00:48:24             
+=========================================================================
+
+Total Active Hubs Identified: 1
+Total Contributing Farm Enclaves: 10
+
+-------------------------------------------------------------------------
+HUB ID          | CROP       | GPS CENTER           | DENSITY  | YIELD (Q)
+-------------------------------------------------------------------------
+HUB_COTTON_0    | Cotton     | 19.875,75.3425       | 8        | 184.0
+-------------------------------------------------------------------------
+TOTAL SYSTEM PROCUREMENT VOLUME: 184.0 Quintals
+=========================================================================
+
+Logistics Instruction Notes:
+1. Dispatch 10-Ton cargo vehicles to hubs breaking > 100 Quintals volume thresholds.
+2. Coordinate regional direct-payment payouts upon field arrival confirmation.
+
+*** END OF MANIFEST REPORT ***
